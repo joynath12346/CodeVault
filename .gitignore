@@ -1,0 +1,1 @@
+-e "# Ignore compiled files\n*.exe\n*.out\n*.o\n\n# Ignore temporary files\n*.log\n*.tmp\n*.swp\n\n# Ignore editor-specific files\n.vscode/\n.idea/" 
